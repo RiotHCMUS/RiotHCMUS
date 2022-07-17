@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://huyhoan652002.github.io/assets/img/hoan.png" , width = 250, border-radius: 50%/>
+<p align="center"> <img src="https://huyhoanFithcmus.github.io/assets/img/hoan.png" , width = 250, border-radius: 50%/>
 <h1  align="center">👋 Hi Everyone, my name is Hoan, you can call me Leo👋</h1>
 <p  align="center"> <img  src="https://komarev.com/ghpvc/?username=huyhoan652002&label=Profile%20views&color=129e00&style=plastic"  alt="huyhoan652002" /> </p>
 
@@ -6,7 +6,7 @@
 - 😄 I also learn online at [CS50](https://cs50.harvard.edu/college/2022/spring/) on [EDX](https://www.edx.org)
 - 🌱 I’m learning and researching about software and AI
 - 📫 How to reach me: **huyhoan652002@gmail.com** or **20127166@student.hcmus.edu.vn**
-- ⚡ Check out my portfolio at: https://huyhoan652002.github.io/
+- ⚡ Check out my portfolio at: https://huyhoanFithcmus.github.io/
 
 <h3  align="left">Connect with me:</h3>
 <p align="left"><a  href="https://www.facebook.com/hoan.nguyenhuy.ITUS/"  target="blank"><img src="https://img.icons8.com/bubbles/64/facebook-new.png"/></a>&nbsp;<a  href="https://www.linkedin.com/in/huyhoan652002/"  target="blank"><img src="https://img.icons8.com/bubbles/64/linkedin.png"/></a>
@@ -42,20 +42,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuyhoan652002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<h1 align="center">👯 My Playground 👯</h1>
-
-<p align="center">
-  <img width="1000" height="400" src="https://i.pinimg.com/originals/6c/a3/3c/6ca33c43ece1db49b8534379e26cdbdc.gif">
-</p>
-
-<p align="center">
-  <img width="1000" height="400" src="https://thumbs.gfycat.com/WeakCoarseFawn-size_restricted.gif">
-</p>
-
-<p align="center">
-  <img width="1000" height="400" src="https://thumbs.gfycat.com/EnragedGoodEmeraldtreeskink-size_restricted.gif">
-</p>
 <!--
 **huyhoan652002/huyhoan652002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
